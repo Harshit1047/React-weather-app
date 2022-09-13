@@ -5,7 +5,7 @@
 <img width="953" alt="image" src="https://user-images.githubusercontent.com/86252946/176995419-d08b6a19-bc01-40cc-8f1e-9f76e263a9fc.png">
 
 Weather app made with ReactJS. Automatically recognizes user's location, based on browser's settings or IP. Weather can be searched both by location on the map or entering city in the search bar.
-Made using React hooks (useState, useEffect, useContext) and React context.
+Made using React hooks (useState, useEffect, useContext) and React context. 
 
 
 ## Version
